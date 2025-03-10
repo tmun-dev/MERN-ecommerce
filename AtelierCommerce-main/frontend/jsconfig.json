@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "jsx": "react-jsx",
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "types": ["node", "vite/client"]
+  },
+  "include": ["src"]
+}
