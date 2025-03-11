@@ -4,5 +4,3 @@ Watch sellers often use private telegrams for their client, the goal was to crea
 
 You will also find the code for the telegram bot on this github
 
-(website is on a free server instance, please understand that the initial load time is to allow spin up time, after loading the website will work efficiently)
-A testable deployment of the base site is available: https://atelier-amiri.onrender.com/
